@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kirikaze24
+- 👀 I’m interested in learning coding languages cause its a good skill to have...
+- 🌱 I’m currently learning Javascript, C#, C++, nodejs ...
+- 💕 Currently a highschooler coding as a hobby
+- 📫 How to reach me  dont...
+<!---
+kirikaze24/kirikaze24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
